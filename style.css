@@ -57,7 +57,7 @@ h2 {
     font-size: 18px;
 }
 
-.quote > p::before {
+.quote .timestamp > p::before {
     content: "-PokeMasterX ";
 }
 
